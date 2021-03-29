@@ -1,4 +1,4 @@
-## [TRM Code Challenge]
+## [Code Challenge]
 
 
 ## Quick start
